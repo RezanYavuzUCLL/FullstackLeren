@@ -53,3 +53,8 @@ UserSettings/
 
 # Shader compiler logs specifically
 **/Logs/shadercompiler-*.log
+
+
+# Allow Unity WebGL build output
+!Build/
+!Build/**/*
