@@ -1,4 +1,3 @@
-HELP.md
 target/
 !.mvn/wrapper/maven-wrapper.jar
 !**/src/main/**/target/
@@ -25,36 +24,30 @@ target/
 /dist/
 /nbdist/
 /.nb-gradle/
+
 build/
 !**/src/main/**/build/
 !**/src/test/**/build/
 
 ### VS Code ###
 .vscode/
-
 .mvn/wrapper/maven-wrapper.jar
 .mvn/wrapper/maven-wrapper.properties
 
 ### H2 ###
 **/data
 
-###MAC ###
+### MAC ###
 .DS_Store
 
-
+### Unity ###
 [Ll]ibrary/
 [Tt]emp/
 [Oo]bj/
 UserSettings/
-
-# Unity Logs 
 [Ll]ogs/
 *.log
-
-# Shader compiler logs specifically
 **/Logs/shadercompiler-*.log
 
-
-# Allow Unity WebGL build output
 !Build/
-!Build/**/*
+!Build/**
