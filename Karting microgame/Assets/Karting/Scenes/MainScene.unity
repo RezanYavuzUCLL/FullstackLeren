@@ -12716,10 +12716,6 @@ PrefabInstance:
       propertyPath: GroundLayers.m_Bits
       value: 32563
       objectReference: {fileID: 0}
-    - target: {fileID: 0}
-      propertyPath: m_Enabled
-      value: 0
-      objectReference: {fileID: 0}
     m_RemovedComponents:
     - {fileID: 0}
     m_RemovedGameObjects: []
